@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Savitha Raghunathan', // Title for your website.
-    tagline: 'Creating unicorns and spinning up Kubernetes clusters!',
+    tagline: 'Painting unicorns and spinning up Kubernetes clusters!',
     profilePhoto: '',
     url: 'https://savitharaghunathan.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
