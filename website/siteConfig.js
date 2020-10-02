@@ -12,10 +12,10 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Your Name Here', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
-    profilePhoto: 'img/profile.png',
-    url: 'https://joatmon08.github.io', // Your website URL
+    title: 'Savitha Raghunathan', // Title for your website.
+    tagline: 'Creating unicorns and spinning up Kubernetes clusters!',
+    profilePhoto: '',
+    url: 'https://savitharaghunathan.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'joatmon08',
+    organizationName: 'savitharaghunathan',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -43,8 +43,8 @@ const siteConfig = {
 
     /* Colors for website */
     colors: {
-        primaryColor: '#2C312E',
-        secondaryColor: '#72C3E7',
+        primaryColor: '#FF8C00',
+        secondaryColor: '#FFE5B4',
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
-        twitter: '',
-        github: '',
+        github: 'savitharaghunathan',
+        twitter: 'coffeeartgirl',
+        linkedin: 'savitharaghunathan',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
