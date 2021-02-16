@@ -15,7 +15,7 @@ I have been contributing to the Kubernetes eco-system since Nov 2018. I enjoy me
 - Facilitated Release Team meetings
 - Helped with decision making process for exception requests
 
-#### Current Roles
+### Current Roles
 
 #### Kubernetes 1.21 Release Team Lead Shadow
 
